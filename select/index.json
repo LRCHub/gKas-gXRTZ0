@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "無題",
+  "base_artist": "Guiano",
+  "createdAt": "2025-12-30T14:39:19.079349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "無題",
+      "artist": "江明音",
+      "has_synced": false,
+      "path": "select/01_無題_江明音.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "무제(無題) (Untitled, 2014)",
+      "artist": "G-DRAGON",
+      "has_synced": true,
+      "path": "select/02_무제(無題)_(Untitled,_2014)_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "無題 Starlight Ver.",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/03_無題_Starlight_Ver._amazarashi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "無題",
+      "artist": "泰尊",
+      "has_synced": false,
+      "path": "select/04_無題_泰尊.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "無題",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_無題_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "無題",
+      "artist": "寸鐵",
+      "has_synced": true,
+      "path": "select/06_無題_寸鐵.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "무제(無題) (Untitled, 2014)",
+      "artist": "G-DRAGON",
+      "has_synced": true,
+      "path": "select/07_무제(無題)_(Untitled,_2014)_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "[無題]",
+      "artist": "Faye Wong",
+      "has_synced": true,
+      "path": "select/08_[無題]_Faye_Wong.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "[無題]",
+      "artist": "Wong, Faye",
+      "has_synced": true,
+      "path": "select/09_[無題]_Wong,_Faye.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "무제(無題) (Untitled, 2014)",
+      "artist": "G-DRAGON",
+      "has_synced": true,
+      "path": "select/10_무제(無題)_(Untitled,_2014)_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "無題",
+      "artist": "拍謝少年",
+      "has_synced": true,
+      "path": "select/11_無題_拍謝少年.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "무제(無題) (Untitled, 2014)",
+      "artist": "G-DRAGON",
+      "has_synced": true,
+      "path": "select/12_무제(無題)_(Untitled,_2014)_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "無題",
+      "artist": "盧巧音",
+      "has_synced": true,
+      "path": "select/13_無題_盧巧音.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "無題",
+      "artist": "Lo, Candy",
+      "has_synced": true,
+      "path": "select/14_無題_Lo,_Candy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無題",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_無題_Guiano.txt"
+    }
+  ]
+}
